@@ -1,4 +1,4 @@
-## Olá meu nome é Gabriel, sou um desenvolvedor Front-end. 
+## Olá meu nome é Gabriel, sou um desenvolvedor FullStack. 
 <br>
 
 <p align="left">
