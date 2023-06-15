@@ -1,5 +1,5 @@
 <p align="left">
-  🚀 Skills: <strong>JavaScript, TypeScript, Python, JQuery, React, React Native, Node.js, VTEX IO, Sass, Bootstrap e MaterialUI.</strong>
+  🚀 Skills: <strong>JavaScript, TypeScript, Python, Java, JQuery, React, React Native, Node.js, VTEX IO, Sass, Bootstrap e MaterialUI.</strong>
 </p>
 
 <p align="left">
