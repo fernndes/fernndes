@@ -10,11 +10,6 @@
 </p>
 <br>
 
-<div>
-  <img height='172' src='https://github-readme-stats.vercel.app/api?username=fernndes&show_icons=true&theme=vue&bg_color=45,1D976C,93F9B9&hide_border=true&title_color=000&icon_color=000'>
-  <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=fernndes&layout=compact&theme=vue&bg_color=45,1D976C,93F9B9&hide_border=true&title_color=000&icon_color=000'>
- </div> <br>
-
 <div style="display: inline_block">
   <img align="center" alt="Gabriel-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Gabriel-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
