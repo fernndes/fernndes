@@ -1,8 +1,5 @@
-## Olá meu nome é Gabriel, sou um desenvolvedor FullStack. 
-<br>
-
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, JavaScript (React, React Native), TypeScript, Sass, Bootstrap e MaterialUI.</strong>
+  🚀 Skills: <strong>JavaScript, TypeScript, Python, JQuery, React, React Native, Node.js, VTEX IO, Sass, Bootstrap e MaterialUI.</strong>
 </p>
 
 <p align="left">
